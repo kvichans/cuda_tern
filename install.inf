@@ -1,0 +1,18 @@
+[info]
+title=Tern
+desc=Intelligent JavaScript tooling
+type=cudatext-plugin
+subdir=cuda_tern
+homepage=https://github.com/kvichans/cuda_tern
+
+[item1]
+section=events
+events=on_complete,on_goto_def,on_func_hint
+lexers=JavaScript
+
+;[item10]
+;section=commands
+;caption=Configure SnipToCall...
+;method=dlg
+;menu=0
+

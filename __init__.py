@@ -1,0 +1,1 @@
+from .cd_tern import Command
